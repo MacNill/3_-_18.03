@@ -22,3 +22,4 @@
 
 >Создание ветки new_branch.
 >Удаление ветки new_branch.
+Создание конфликта с веткой creating_branch.
