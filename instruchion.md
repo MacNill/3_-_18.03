@@ -11,3 +11,6 @@
 ![Забавный котик](https://chudo-prirody.com/uploads/posts/2021-08/1628735741_87-p-foto-kotikov-prikolnie-90.jpg)
 
 [поиск](https://www.google.ru/)
+
+## Основыне команды второго семинара по Git
+ 
